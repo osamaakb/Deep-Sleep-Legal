@@ -4,5 +4,5 @@ title: Legal
 
 # Legal
 
-- [Privacy Policy](/Deep-Sleep/privacy-policy)
-- [Terms of Service](/Deep-Sleep/terms-of-service)
+- [Privacy Policy](/Deep-Sleep-Legal/privacy-policy)
+- [Terms of Service](/Deep-Sleep-Legal/terms-of-service)
