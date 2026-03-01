@@ -1,6 +1,0 @@
-[build]
-  publish = "public"
-  command = ""
-
-[[plugins]]
-  package = "@netlify/plugin-markdown"
