@@ -18,28 +18,10 @@ export default function HomePage() {
         <li>
           <Link href="/terms">Terms & Conditions</Link>
         </li>
+        <li>
+          <Link href="/support">Support & FAQ</Link>
+        </li>
       </ul>
-
-      <div
-        style={{
-          marginTop: 18,
-          padding: 14,
-          borderRadius: 14,
-          border: "1px solid #e5e7eb",
-          background: "#fafafa"
-        }}
-      >
-        <div style={{ fontWeight: 600 }}>Quick setup</div>
-        <ol style={{ margin: "8px 0 0", paddingLeft: 18 }}>
-          <li>Deploy to Vercel.</li>
-          <li>
-            Add these URLs in App Store Connect:
-            <div style={{ marginTop: 6 }}>
-              <code>/privacy</code> and <code>/terms</code>
-            </div>
-          </li>
-        </ol>
-      </div>
     </div>
   );
 }
