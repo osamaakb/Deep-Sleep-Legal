@@ -6,11 +6,6 @@ export default function HomePage() {
   return (
     <div>
       <h1 style={{ margin: "0 0 8px" }}>Legal Pages</h1>
-      <p style={{ marginTop: 0, color: "#374151" }}>
-        Use these links for App Store Connect Privacy Policy and Terms URLs for{" "}
-        <strong>{APP_NAME}</strong>.
-      </p>
-
       <ul style={{ paddingLeft: 18 }}>
         <li>
           <Link href="/privacy">Privacy Policy</Link>
